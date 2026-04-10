@@ -1,16 +1,15 @@
-# Lázaro V. Bonifácio - O _caba_ da infra 👨🏻‍🏭
+# LAZARO BONIFACIO - DevSecOps 👨🏻‍🏭
 
-_É aqui_ 📍 _que filho_ 👦🏻  _chora_ 😢 _e mãe_ 👩🏼 _não vê_ 🙈
+_Making value one improvement at a time_
 
-## Entregando valor uma melhoria de cada vez
+## What you need to know about me
 
-- Procurando trabalho!
-- Atuo com Analista/Engenheiro DevOps, infraestrutura (em nuvem), plataforma
-- 👉[Saiba mais](https://lazarovbonifacio.com) 
-- [Portfólio](https://github.com/lazarovbonifacio/portfolio)
+- Currently active in the job market!
+- 👉 [Know more](https://lazarovbonifacio.com) 
+- [Portfolio](https://github.com/lazarovbonifacio/portfolio)
 
 ##
-![Static Badge](https://img.shields.io/badge/-Email-%23008299?style=for-the-badge&logo=mailboxdotorg&logoColor=white&link=mailto%3Alazarovbonifalcio%40outlook.com)
-![Static Badge](https://img.shields.io/badge/-Linkedin-%230a66c2?style=for-the-badge&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flazarovbonifacio%2F)
-![Static Badge](https://img.shields.io/badge/-Telegram-%2329a9eb?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Flazarovbonifacio%2F)
-![Static Badge](https://img.shields.io/badge/-Whatsapp-%230bc143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https%3A%2F%2Fwa.me%2F84988135261)
+[![Static Badge](https://img.shields.io/badge/-Email-%23008299?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:contact@lazarovbonifacio.com)
+[![Static Badge](https://img.shields.io/badge/-Linkedin-%230a66c2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lazarovbonifacio/)
+[![Static Badge](https://img.shields.io/badge/-Telegram-%2329a9eb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lazarovbonifacio/)
+[![Static Badge](https://img.shields.io/badge/-Whatsapp-%230bc143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84988135261)
