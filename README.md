@@ -6,7 +6,7 @@
 
 > *Bridging robust cloud-native infrastructure with developer self-service, aggressive FinOps, and deterministic tooling.*
 
-With deep hands-on expertise in platform engineering, Kubernetes orchestration, and Infrastructure as Code, I engineer production platforms that don't just scale under load — they run reliably, stay strictly cost-optimized, and empower engineering squads to ship software with minimal cognitive friction. I partner with engineering leaders and cross-functional teams to eliminate operational bottlenecks, automate multi-account cloud landing zones, and enforce zero-trust security guardrails.
+With deep hands-on expertise in platform engineering, Kubernetes orchestration, and Infrastructure as Code, I engineer production platforms that don't just scale under load — they run reliably, stay strictly cost-optimized, and empower engineering squads to ship software with minimal cognitive friction. I partner with engineering leaders and cross-functional teams to eliminate operational bottlenecks, automate multi-account cloud landing zones, and enforce security guardrails.
 
 🌐 **Website:** [lazarovbonifacio.com](https://lazarovbonifacio.com) | 📄 **Resume / CV:** [View CV](https://lazarovbonifacio.com/resume-cv/) | 💼 **Full Portfolio:** [Platform & Architecture Case Studies](https://github.com/lazarovbonifacio/portfolio)
 
@@ -15,10 +15,10 @@ With deep hands-on expertise in platform engineering, Kubernetes orchestration, 
 ## 💻 Tech Stack & Tooling
 
 - **Cloud & Infrastructure:** AWS (Organizations, Control Tower, Transit Gateway, VPC, IAM Least Privilege), GCP, Linux Internals, Systems Architecture, Networking (DNS, TLS, BGP, CIDR).
-- **Orchestration & Platform:** Kubernetes (EKS, GKE), Karpenter, KEDA, Docker, Helm, ArgoCD, Backstage (IDP), ECS.
+- **Orchestration & Platform:** Kubernetes (EKS, GKE), Karpenter, Docker, Helm, ArgoCD, ECS.
 - **IaC & Automation:** Terraform, Terragrunt, OpenTofu, Ansible, GitHub Actions, GitLab CI, Model Context Protocol (MCP).
 - **Core Languages:** Go, Python, Bash, SQL.
-- **Observability & SRE:** LGTM Stack (Loki, Grafana, Tempo, Mimir), Prometheus, OpenTelemetry, ELK Stack, Datadog.
+- **Observability & SRE:** LGTM Stack (Loki, Grafana, Tempo, Mimir), Prometheus, OpenTelemetry, ELK Stack, New Relic.
 
 ---
 
